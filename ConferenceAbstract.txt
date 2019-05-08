@@ -1,3 +1,5 @@
-This is my super awesome title
+This is my super duper awesome title
 
-Hypothesis definitely supported
+Methods were okay I guess
+
+Hypothesis definitely supported, p < .05
